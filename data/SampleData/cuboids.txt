@@ -1,0 +1,22 @@
+# 20 cuboids
+
+cuboids/sample00.pts
+cuboids/sample01.pts
+cuboids/sample02.pts
+cuboids/sample03.pts
+cuboids/sample04.pts
+cuboids/sample05.pts
+cuboids/sample06.pts
+cuboids/sample07.pts
+cuboids/sample08.pts
+cuboids/sample09.pts
+cuboids/sample10.pts
+cuboids/sample11.pts
+cuboids/sample12.pts
+cuboids/sample13.pts
+cuboids/sample14.pts
+cuboids/sample15.pts
+cuboids/sample16.pts
+cuboids/sample17.pts
+cuboids/sample18.pts
+cuboids/sample19.pts
